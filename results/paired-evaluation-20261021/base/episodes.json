@@ -1,0 +1,302 @@
+[
+  {
+    "episode": 0,
+    "seed": 3000,
+    "official_init_index": 10,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 27.973484809000013,
+    "video": "episode_00.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 1,
+    "seed": 3001,
+    "official_init_index": 11,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.716080089000002,
+    "video": "episode_01.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 2,
+    "seed": 3002,
+    "official_init_index": 12,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.96013651299998,
+    "video": "episode_02.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 3,
+    "seed": 3003,
+    "official_init_index": 13,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 26.038843444999998,
+    "video": "episode_03.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 4,
+    "seed": 3004,
+    "official_init_index": 14,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.175496827000018,
+    "video": "episode_04.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 5,
+    "seed": 3005,
+    "official_init_index": 15,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.921820062999984,
+    "video": "episode_05.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 6,
+    "seed": 3006,
+    "official_init_index": 16,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 26.055773004999992,
+    "video": "episode_06.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 7,
+    "seed": 3007,
+    "official_init_index": 17,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.567570886999988,
+    "video": "episode_07.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 8,
+    "seed": 3008,
+    "official_init_index": 18,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.759850920999952,
+    "video": "episode_08.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 9,
+    "seed": 3009,
+    "official_init_index": 19,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.115440159000002,
+    "video": "episode_09.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 10,
+    "seed": 3010,
+    "official_init_index": 20,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.637786186000028,
+    "video": "episode_10.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 11,
+    "seed": 3011,
+    "official_init_index": 21,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.991339811000046,
+    "video": "episode_11.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 12,
+    "seed": 3012,
+    "official_init_index": 22,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.094311237000056,
+    "video": "episode_12.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 13,
+    "seed": 3013,
+    "official_init_index": 23,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.401504750000072,
+    "video": "episode_13.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 14,
+    "seed": 3014,
+    "official_init_index": 24,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.809762456000044,
+    "video": "episode_14.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 15,
+    "seed": 3015,
+    "official_init_index": 25,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.79985671299994,
+    "video": "episode_15.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 16,
+    "seed": 3016,
+    "official_init_index": 26,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.343715062,
+    "video": "episode_16.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 17,
+    "seed": 3017,
+    "official_init_index": 27,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.681242652000037,
+    "video": "episode_17.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 18,
+    "seed": 3018,
+    "official_init_index": 28,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.366989160999992,
+    "video": "episode_18.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 19,
+    "seed": 3019,
+    "official_init_index": 29,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.377667017999897,
+    "video": "episode_19.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 20,
+    "seed": 3020,
+    "official_init_index": 30,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 27.588343829999985,
+    "video": "episode_20.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 21,
+    "seed": 3021,
+    "official_init_index": 31,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 29.452364325000076,
+    "video": "episode_21.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 22,
+    "seed": 3022,
+    "official_init_index": 32,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 29.77193494800008,
+    "video": "episode_22.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 23,
+    "seed": 3023,
+    "official_init_index": 33,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 29.645764654000004,
+    "video": "episode_23.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 24,
+    "seed": 3024,
+    "official_init_index": 34,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 29.487545002999923,
+    "video": "episode_24.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 25,
+    "seed": 3025,
+    "official_init_index": 35,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 26.613891096999964,
+    "video": "episode_25.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 26,
+    "seed": 3026,
+    "official_init_index": 36,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.796279930000082,
+    "video": "episode_26.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 27,
+    "seed": 3027,
+    "official_init_index": 37,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.926089004000005,
+    "video": "episode_27.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 28,
+    "seed": 3028,
+    "official_init_index": 38,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 25.378313182999932,
+    "video": "episode_28.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 29,
+    "seed": 3029,
+    "official_init_index": 39,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 24.559846963999917,
+    "video": "episode_29.mp4",
+    "mode": "model-autonomous"
+  }
+]

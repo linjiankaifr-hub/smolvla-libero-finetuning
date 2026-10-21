@@ -4,7 +4,26 @@
 
 本仓库提供数据适配、微调、评测和审计代码，以及本地实验记录。代码由 Codex 协助完成；使用官方策略及预训练模型，没有从零训练视觉语言基础模型，也未部署真机。
 
-## 演示与实测
+## 新增30个初始条件配对评测
+
+2026-10-21：固定已有权重、不重训，使用官方初始状态10—39与相同种子3000—3029，串行比较任务适配前后的模型。
+
+| 模型 | 同条件成功次数 |
+|---|---:|
+| 基座模型（使用本任务输入输出适配及训练集统计） | 0/30 |
+| 1000步微调模型 | 18/30 |
+
+此前正式0—9的9/10、开发40—42的1/3与这轮分别报告，不混成一个成功率。新增条件不是严格训练未见布局的证明；只有一个训练种子。
+
+[完整实验报告](results/paired-evaluation-20261021/实验报告.md) · [30组配对CSV](results/paired-evaluation-20261021/paired-episodes.csv) · [完整审计JSON](results/paired-evaluation-20261021/paired-summary.json) · [实验讲述](docs/paired-evaluation-interview.md)
+
+![配对实验](results/paired-evaluation-20261021/paired-comparison.png)
+
+[改善案例对照图](results/paired-evaluation-20261021/improved-contact-sheet.png) · [共同失败案例对照图](results/paired-evaluation-20261021/both_failure-contact-sheet.png)
+
+全部60回合视频和实际动作／状态轨迹随仓库发布。无需模型或GPU即可核对公开记录与媒体：在仓库根目录用Python 3.11或以上运行 `python analysis/verify_public_pair.py --root .`。这只核验保存记录的一致性，不代表重跑模型或验证原始训练；完整报告的生成还要求本地原模型与输入文件。
+
+## 原10回合记录与训练配置
 
 [模型自主成功视频](results/model-demo.mp4) · [失败视频](results/model-failure.mp4)
 
