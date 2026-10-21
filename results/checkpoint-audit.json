@@ -1,0 +1,27 @@
+{
+  "training_step": 1000,
+  "optimizer_parameter_steps": [
+    1000,
+    1000
+  ],
+  "model_sha256": "3d8b4b51563d19a91ce8f4f03c3b4d75c9cfcaf5c12d406faa0afa52d8a5bc42",
+  "action_head_l2_delta_from_base": 0.12450318783521652,
+  "frozen_vision_tensor_unchanged": true,
+  "normalization_matches_training_only": true,
+  "source_fingerprints": {
+    "scripts/audit_checkpoint.py": "211a4ed605aa95e1e7509d96d0aae08a3bdc28b74e27b48c06352664a83995ca",
+    "scripts/common.sh": "3492dbbbfad88baf2a77f56b696fcb5fb115f1e38bbe84759260cbbbfaf48fdf",
+    "scripts/data_pipeline.py": "7cab31e1b557c0ee1f6eb4cdf4a9292e7ea4e68c235d102a751efc51c5a859a7",
+    "scripts/download_assets.py": "0c7acba5d3a3a1a8d7554f1e45eaf5790a06e8cd3ac5f917a4682e5c1e42d801",
+    "scripts/environment.py": "d1f4bddf4fbc57c5f213471c943a2a3ef541dde1a25f318d4c11865627d37804",
+    "scripts/evaluate.py": "5653df7f3f9f7e588a7e26f63b070fb6fc3ccfb80d6bf36781ce83e7bba2ac95",
+    "scripts/model_input_audit.py": "2d6f1bea909105835a47260ee7a25a898fec67015a8c4518a07dc13feefcb024",
+    "scripts/policy_utils.py": "8022c9df69c008a705c9ce2e428f698622014e998104e291802fb7cf42421ebf",
+    "scripts/preview_inputs.py": "b3c0e7ec36e7bdc66e16e9d1642416acfdd166590a9841883cfe4667f65c6dec",
+    "scripts/preview_rollout.py": "57ebc16cec37bb8d046396726666fcf74bd1148fa9852a9ca522445025bd6467",
+    "scripts/setup.sh": "9f127da9b076ffae95ef2f32ec658c4545e54464cb6657e9705ebf35e7d883bc",
+    "scripts/stage.sh": "ff2a1dbb3d06c5393235cfba3f525753db93ab767b808b87bdb924ecfbc931af",
+    "scripts/summarize.py": "e39b7a2189bbe55152ec1b4243b47802eaad0b91b04355f87c8d5b89962ea6c8",
+    "scripts/train.py": "06b3612fdcaf0d3d18b1904a3e956e0f92406a7cfb85de0af40d8b073576108c"
+  }
+}

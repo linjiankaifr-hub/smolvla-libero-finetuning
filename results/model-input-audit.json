@@ -1,0 +1,14 @@
+{
+  "checkpoint": "checkpoints/single-task",
+  "output_shape": [
+    1,
+    50,
+    7
+  ],
+  "finite_actions": true,
+  "fixed_noise_repeat_max_error": 0.0,
+  "all_padded_action_loss": 0.0,
+  "image_ablation_mean_abs_action_delta": 0.07427076995372772,
+  "language_change_mean_abs_action_delta": 0.05451372265815735,
+  "interpretation": "Input sensitivity and technical contract only; not proof of semantic language understanding."
+}

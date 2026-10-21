@@ -1,0 +1,32 @@
+[
+  {
+    "episode": 0,
+    "seed": 1000,
+    "official_init_index": 0,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 52.770117733000006,
+    "video": "episode_00.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 1,
+    "seed": 1001,
+    "official_init_index": 1,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 29.380956454999932,
+    "video": "episode_01.mp4",
+    "mode": "model-autonomous"
+  },
+  {
+    "episode": 2,
+    "seed": 1002,
+    "official_init_index": 2,
+    "success": false,
+    "steps": 220,
+    "elapsed_s": 43.52737428399996,
+    "video": "episode_02.mp4",
+    "mode": "model-autonomous"
+  }
+]

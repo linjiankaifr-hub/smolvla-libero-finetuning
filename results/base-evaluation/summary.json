@@ -1,0 +1,15 @@
+{
+  "task": "pick up the black bowl next to the cookie box and place it on the plate",
+  "libero_suite": "libero_spatial",
+  "libero_task_index": 6,
+  "episodes": 3,
+  "successes": 0,
+  "success_rate": 0.0,
+  "checkpoint": "models/base",
+  "model_sha256": "7cd549ac2351fb069c0ddb3c34ad2d09cfc92b56a15dccdfc2e41467aaca01eb",
+  "max_steps": 220,
+  "n_action_steps": 10,
+  "mode": "model-autonomous",
+  "protocol": "official supplied initial states; 10 settling steps; max 220 control steps; original task success predicate",
+  "generalization_limit": "Different environment resets, but RLDS demo-to-official-init mapping is unavailable; unseen-object-layout independence is not established."
+}

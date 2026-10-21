@@ -1,0 +1,26 @@
+{
+  "dataset": {
+    "repo": "aopolin-lv/libero_spatial_no_noops_lerobot_v21",
+    "revision": "bfe55b41cc3103d672ad7204257c9bdc547410cb"
+  },
+  "base": {
+    "repo": "lerobot/smolvla_base",
+    "revision": "5e8d12a6e2975b0e5e5fce7c8caf47c371d257b6",
+    "sha256": "7cd549ac2351fb069c0ddb3c34ad2d09cfc92b56a15dccdfc2e41467aaca01eb"
+  },
+  "processor": {
+    "repo": "HuggingFaceTB/SmolVLM2-500M-Video-Instruct",
+    "revision": "7b375e1b73b11138ff12fe22c8f2822d8fe03467"
+  },
+  "tutorial": "https://github.com/datawhalechina/every-embodied/blob/main/06-策略抓取或抓取VLA/大模型控制、VLA、VLM/01SmolVLA-LIBERO/01SmolVLA-libero.md",
+  "unavailable_tutorial_dataset": "nikriz/aopoli-lv-libero_combined_no_noops_lerobot_v21: HTTP 401",
+  "selected_task": "pick up the black bowl next to the cookie box and place it on the plate",
+  "lerobot": {
+    "revision": "d602e8169cbad9e93a4a3b3ee1dd8b332af7ebf8",
+    "unmodified_tracked_sources": true
+  },
+  "LIBERO": {
+    "revision": "8f1084e3132a39270c3a13ebe37270a43ece2a01",
+    "unmodified_tracked_sources": true
+  }
+}

@@ -1,0 +1,12 @@
+[
+  {
+    "episode": 0,
+    "seed": 1000,
+    "official_init_index": 0,
+    "success": false,
+    "steps": 3,
+    "elapsed_s": 0.5397318219999079,
+    "video": "episode_00.mp4",
+    "mode": "environment-smoke"
+  }
+]
