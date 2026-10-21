@@ -27,7 +27,7 @@
 
 1. 在 Windows + WSL Ubuntu 24.04 或 Linux 中准备 Python 3.12、uv 和图形依赖。
 2. 按 `sources.json` 的提交号克隆 [LeRobot](https://github.com/huggingface/lerobot) 到 `official/lerobot`，克隆 [LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) 到 `official/LIBERO` 并切换对应提交。
-3. 阅读 [本机运行说明](docs/local-experiment.md)，调整 `scripts/setup.sh`、`common.sh` 的本机 uv、WSLg/D3D12、缓存和暂存路径。安装脚本依赖既有环境，不是全新系统一键安装器。
+3. 阅读 [本机运行说明](LOCAL_EXPERIMENT.md)，调整 `scripts/setup.sh`、`common.sh` 的本机 uv、WSLg/D3D12、缓存和暂存路径。安装脚本依赖既有环境，不是全新系统一键安装器。
 4. 依次运行 `run.ps1 -Task setup`、`download`、`prepare`、`train`；生成检查点后执行 `audit`、`evaluate`。精确配置和结果边界见本机说明。
 
 主要实现：`scripts/data_pipeline.py`、`train.py`、`evaluate.py`、`environment.py`、`policy_utils.py`；契约测试在 `tests/`。来源、许可证与贡献边界见 [THIRD_PARTY.md](THIRD_PARTY.md)。
